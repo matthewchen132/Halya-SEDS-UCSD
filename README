@@ -1,1 +1,2 @@
 Here are my contributions to the Sensor board firmware and Launch states on Halya
+ - main.cpp carries HalyaStateMachine and BabyStateMachine, we are improving HalyaStateMachine and adding CAN/solenoid actuation by slowly implementing its features into BabyStateMachine
